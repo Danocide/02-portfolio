@@ -98,4 +98,15 @@ header {
     text-decoration: underline 2px;
   }
 
+  #imgSize {
+    max-width: 500px;
+
+  }
+
+  #projects {
+    display: flex
+   align-items: flex-start
+   float: center
+  }
+
   
